@@ -1,0 +1,26 @@
+body {
+  background-color: gray;
+  text-align: center;
+  padding: 60px;
+}
+
+h1,
+h2,
+h3,
+p {
+  color: gray;
+  font-family: arial;
+}
+
+ul{
+  display: center;
+}
+
+div {
+  color: gray;
+  font-family: arial;
+}
+
+a {
+  color: gray;
+}
